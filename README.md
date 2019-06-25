@@ -1,2 +1,2 @@
-# Python3.0
-Python Basics
+# ML USING PYTHON
+Capstone projects
