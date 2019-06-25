@@ -1,2 +1,3 @@
 # ML USING PYTHON
-Capstone projects
+1) Python Basics
+2) Capstone projects
